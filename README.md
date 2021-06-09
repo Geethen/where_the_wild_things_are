@@ -13,3 +13,4 @@
 
 * Static workflow: https://colab.research.google.com/drive/1juNNSGE01DY4fC4-WpnQcA5hvz5K4d0C?usp=sharing
 * Static variable preparation: https://colab.research.google.com/drive/1CUUWrG9Z2ll38n6O4pR2LBeHfgskMoOe?usp=sharing
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Geethen/where_the_wild_things_are.git/HEAD)
