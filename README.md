@@ -8,3 +8,7 @@
   * Update Bernard
 * 9th June 2021: Code up predictor variables
 * 16th June 2021: Start modeling
+
+## Links to colab notebooks:
+
+* Static workflow: https://colab.research.google.com/drive/1juNNSGE01DY4fC4-WpnQcA5hvz5K4d0C?usp=sharing
