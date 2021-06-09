@@ -12,3 +12,4 @@
 ## Links to colab notebooks:
 
 * Static workflow: https://colab.research.google.com/drive/1juNNSGE01DY4fC4-WpnQcA5hvz5K4d0C?usp=sharing
+* Static variable preparation: https://colab.research.google.com/drive/1CUUWrG9Z2ll38n6O4pR2LBeHfgskMoOe?usp=sharing
