@@ -8,6 +8,7 @@
 * UD_buf_GPS: ee.Image('users/geethensingh/UD_buf_GPS')
 * UD_buf_mean: ee.Image('users/jdmwhite/UD_buf_mean')
 * UD_buf_max: ee.Image('users/jdmwhite/UD_buf_max')
+* All covariates: ee.Image('users/jdmwhite/WTWTA_covariates')
 
 ## Links to colab notebooks:
 
