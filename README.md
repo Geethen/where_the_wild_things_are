@@ -6,6 +6,8 @@
 * AOI (KNP): ee.FeatureCollection('users/jdmwhite/KNP_study_area')
 * UD_buf_vhf: ee.Image('users/jdmwhite/UD_buf_vhf')
 * UD_buf_GPS: ee.Image('users/geethensingh/UD_buf_GPS')
+* UD_buf_mean: ee.Image('users/jdmwhite/UD_buf_mean')
+* UD_buf_max: ee.Image('users/jdmwhite/UD_buf_max')
 
 ## Links to colab notebooks:
 
