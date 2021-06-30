@@ -2,12 +2,10 @@
 
 ## Aim: Predict where rangers should be
 
-## To do list:
-
-* 2nd June 2021: Buffalo kernel density rasters
-  * Update Bernard
-* 9th June 2021: Code up predictor variables
-* 16th June 2021: Start modeling
+## Links to GEE assets
+* AOI (KNP): ee.FeatureCollection('users/jdmwhite/KNP_study_area')
+* UD_buf_vhf: ee.Image('users/jdmwhite/UD_buf_vhf')
+* UD_buf_GPS: ee.Image('users/geethensingh/UD_buf_GPS')
 
 ## Links to colab notebooks:
 
