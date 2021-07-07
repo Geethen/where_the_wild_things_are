@@ -9,6 +9,7 @@
 * UD_buf_mean: ee.Image('users/jdmwhite/UD_buf_mean')
 * UD_buf_max: ee.Image('users/jdmwhite/UD_buf_max')
 * All covariates: ee.Image('users/jdmwhite/WTWTA_covariates')
+* All covariates @ 1000m: ee.Image('users/jdmwhite/WTWTA_covariates_1000')
 
 ## Links to colab notebooks:
 
