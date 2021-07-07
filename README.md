@@ -10,6 +10,7 @@
 * UD_buf_max: ee.Image('users/jdmwhite/UD_buf_max')
 * All covariates: ee.Image('users/jdmwhite/WTWTA_covariates')
 * All covariates @ 1000m: ee.Image('users/jdmwhite/WTWTA_covariates_1000')
+* Sampled points: ee.FeatureCollection('users/jdmwhite/buff_sampled_points')
 
 ## Links to colab notebooks:
 
