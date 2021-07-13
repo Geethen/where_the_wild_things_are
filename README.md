@@ -12,6 +12,7 @@
 * All covariates @ 1000m: ee.Image('users/jdmwhite/WTWTA_covariates_1000')
 * Selected covariates @ 1000m: ee.Image('users/jdmwhite/WTWTA_covariates_1000_sel')
 * Sampled points: ee.FeatureCollection('users/jdmwhite/buff_sampled_points')
+* Spatial grid with id: ee.FeatureCollection('users/geethensingh/WTWTA_grid75457')
 
 ## Links to colab notebooks:
 
